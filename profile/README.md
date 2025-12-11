@@ -1,16 +1,16 @@
-# IITD Tech Ambit
+# IITD Research Ambit
 *A student-led initiative to make IIT Delhi’s research accessible, searchable, and impactful.*
 
 ---
 
 ## 🚀 About the Organisation
 
-**IITD Tech Ambit** is an open, student-driven research intelligence platform built at the **Indian Institute of Technology Delhi**.  
+**IITD Research Ambit** is an open, student-driven research intelligence platform built at the **Indian Institute of Technology Delhi**.  
 Our mission is to **bring every research contribution from IITD — across departments, centres, labs, faculty, and research groups — into one unified, searchable hub**.
 
 World-class research at IITD spans engineering, sciences, humanities, technology, entrepreneurship, and interdisciplinary domains. But this knowledge remains fragmented across lab websites, PDFs, newsletters, and isolated systems.
 
-**Tech Ambit changes this.**  
+**Research Ambit changes this.**  
 We index, structure, and surface IITD’s research outputs so that **students, faculty, industry partners, and collaborators** can access them effortlessly.
 
 ---
